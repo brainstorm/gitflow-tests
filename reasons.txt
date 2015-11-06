@@ -20,3 +20,7 @@ Collaborating with your colleagues
 
 Setting up a python course
     * And explaining why gitflow is interesting
+
+ugly commit1
+ubly commit2
+ugly commit3
